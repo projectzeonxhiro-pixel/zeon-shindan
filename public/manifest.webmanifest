@@ -1,8 +1,11 @@
 {
   "name": "ZEON 魂の属性診断",
   "short_name": "ZEON診断",
+  "description": "魂の属性を診断する神秘的な占いアプリ",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#0b1020",
   "theme_color": "#6b5cff",
   "icons": [
